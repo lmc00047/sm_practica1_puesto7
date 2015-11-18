@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SmPractica1</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="Datos">Información de Sesión</string>
+    <string name="Info1">Servicios Móviles</string>
+    <string name="Info2">Práctica 1</string>
+    <string name="Info3">Laura Moreno Chicharro</string>
+    <string name="Info33">Laura y Pablo</string>
+	<string name="Usuario">Usuario</string>
+	<string name="Contraseña">Contraseña</string>
+	<string name="IP">IP</string>
+	<string name="Puerto">Puerto</string>
+	<string name="Login">Login</string>
+</resources>

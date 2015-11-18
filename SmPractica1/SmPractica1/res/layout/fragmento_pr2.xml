@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE xml>
+<AbsoluteLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/AbsoluteLayout1"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/fragmentopr" >
+
+    <ImageButton
+        android:id="@+id/botonEntrar"
+        android:layout_width="202dp"
+        android:layout_height="202dp"
+        android:layout_x="62dp"
+        android:layout_y="133dp"
+        android:background="@drawable/boton_entrar"
+        android:src="@drawable/boton_entrar" />
+
+</AbsoluteLayout>

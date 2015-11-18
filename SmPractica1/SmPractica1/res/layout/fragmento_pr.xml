@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?> <!DOCTYPE xml>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/fragmentopr"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/textViewInfo1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+        android:hint="@string/Info1"
+        android:text="@string/Info1"
+        android:textColor="#FFFFFF"
+        android:textSize="@android:dimen/app_icon_size"
+        android:textStyle="bold|italic" />
+
+    <TextView
+        android:id="@+id/textViewInfo2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+        android:hint="@string/Info2"
+        android:text="@string/Info2"
+        android:textColor="#FFFFFF"
+        android:textSize="@android:dimen/app_icon_size"
+        android:textStyle="bold|italic" />
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+        android:hint="@string/Info33"
+        android:text="@string/Info33"
+        android:textColor="#FFFFFF"
+        android:textSize="@android:dimen/app_icon_size"
+        android:textStyle="bold|italic" />
+
+</LinearLayout>
